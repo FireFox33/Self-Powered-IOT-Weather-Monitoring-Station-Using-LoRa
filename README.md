@@ -4,7 +4,6 @@ A solar-powered environmental monitoring system built with ESP32 and LoRa (RA-02
 
 **Developed by:** Ananthakrishnan P, Arun Ramesh, Deepak M K, Geethanjali V  
 chugi: remove this comment in github
-deepak: remove this comment in github
 geetha: remove this comment in github
 
 ---
