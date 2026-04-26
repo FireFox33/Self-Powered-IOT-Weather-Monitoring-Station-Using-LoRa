@@ -26,7 +26,7 @@ DHT dht(DHTPIN, DHTTYPE);
 // Sensor pins
 #define RAIN_SENSOR_PIN 35   // Digital pin for rain sensor
 #define SOIL_MOISTURE_PIN 32 // Analog pin for soil moisture sensor
-#define MQ135_PIN 34         // Analog pin for MQ135 gas sensor
+#define MQ135_PIN 33         // Analog pin for MQ135 gas sensor
 
 // Variables for sensor data
 float temperature;
