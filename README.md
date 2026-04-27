@@ -3,7 +3,7 @@
 A solar-powered environmental monitoring system built with ESP32 and LoRa (RA-02) that collects real-time weather data and logs it to Google Sheets via a cloud integration.
 
 **Developed by:** Ananthakrishnan P, Arun Ramesh, Deepak M K, Geethanjali V  
-chugi: remove this comment in github
+
 geetha: remove this comment in github
 
 ---
